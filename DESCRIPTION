@@ -1,11 +1,10 @@
 Package: aqsamples
-Title: What the Package Does (One Line, Title Case)
+Title: Functions for retrieving data from AQUARIUS Samples
 Version: 0.0.0.9000
 Authors@R: 
     person("Robert", "Esquivel", , "resquivel@cityofboise.org", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Description: This package contains a collection of functions for connecting to and retrieving data from AQUARIUS Samples.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
